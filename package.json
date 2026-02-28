@@ -1,7 +1,7 @@
 {
-  "name": "gw-testing-mod",
+  "name": "stats-boost-stability",
   "version": "1.0.0",
-  "description": "Testing capabilities of AFNM mod development",
+  "description": "Causes player control and intensity to boost stability when above 100",
   "author": {
     "name": "ThatGuyGW"
   },
