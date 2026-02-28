@@ -1,9 +1,9 @@
 {
-  "name": "my-afnm-mod",
-  "version": "0.0.1",
-  "description": "A mod for AFNM",
+  "name": "gw-testing-mod",
+  "version": "1.0.0",
+  "description": "Testing capabilities of AFNM mod development",
   "author": {
-    "name": "<your name>"
+    "name": "ThatGuyGW"
   },
   "main": "dist/mod.js",
   "scripts": {
